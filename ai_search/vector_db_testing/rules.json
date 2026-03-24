@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "rule": "Studio apartments do not have separate bedrooms"
+  },
+
+  {
+    "id": 2,
+    "rule": "Plots, land, office spaces cannot have bedrooms"
+  },
+
+  {
+    "id": 3,
+    "rule": "Plots cannot be available for rent, only for sale"
+  },
+
+  {
+    "id": 4,
+    "rule": "Commercial properties cannot have residential attributes like bedrooms"
+  }
+]
