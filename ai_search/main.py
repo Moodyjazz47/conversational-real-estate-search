@@ -108,6 +108,8 @@ def main(user_query:str)->dict:
 
 
 main(user_query='Im looking to buy or rent a flat')
+#sample queries: 
+#"want to rent an office space near hebbal",  "something with 3 bedrooms",  "show me properties for sale near whitefield",  "flats for rent",  "I want a house", "a 3bhk house for rent in yelahanka" etc.
 
     # sample_dict = {"customer_intent": ["RENT"], 'listing':["rent"], "property_type": ["duplex"], "property_attributes":["4 bedroom"], "location":["mg road"]  }
     # extracted_entities = ExtractedEntities(**sample_dict)
